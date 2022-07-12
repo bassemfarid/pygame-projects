@@ -1,2 +1,3 @@
-# pygame-projects
-for a school's coding club and classes
+# Student Pygame Projects
+
+Used for developing school projects with the pygame library in Python.
